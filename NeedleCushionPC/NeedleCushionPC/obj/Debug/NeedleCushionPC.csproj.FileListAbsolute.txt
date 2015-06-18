@@ -1,0 +1,9 @@
+c:\users\김태호\documents\visual studio 2013\Projects\NeedleCushionPC\NeedleCushionPC\bin\Debug\NeedleCushionPC.exe.config
+c:\users\김태호\documents\visual studio 2013\Projects\NeedleCushionPC\NeedleCushionPC\bin\Debug\NeedleCushionPC.exe
+c:\users\김태호\documents\visual studio 2013\Projects\NeedleCushionPC\NeedleCushionPC\bin\Debug\NeedleCushionPC.pdb
+c:\users\김태호\documents\visual studio 2013\Projects\NeedleCushionPC\NeedleCushionPC\obj\Debug\NeedleCushionPC.csprojResolveAssemblyReference.cache
+c:\users\김태호\documents\visual studio 2013\Projects\NeedleCushionPC\NeedleCushionPC\obj\Debug\NeedleCushionPC.Form1.resources
+c:\users\김태호\documents\visual studio 2013\Projects\NeedleCushionPC\NeedleCushionPC\obj\Debug\NeedleCushionPC.Properties.Resources.resources
+c:\users\김태호\documents\visual studio 2013\Projects\NeedleCushionPC\NeedleCushionPC\obj\Debug\NeedleCushionPC.csproj.GenerateResource.Cache
+c:\users\김태호\documents\visual studio 2013\Projects\NeedleCushionPC\NeedleCushionPC\obj\Debug\NeedleCushionPC.exe
+c:\users\김태호\documents\visual studio 2013\Projects\NeedleCushionPC\NeedleCushionPC\obj\Debug\NeedleCushionPC.pdb
